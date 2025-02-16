@@ -1,16 +1,21 @@
-# todoappv2
+# TodoApp
+# 📝 To-Do App – Built with Flutter and Hive
 
-A new Flutter project.
+A simple and efficient To-Do List app built using **Flutter** for the user interface and **Hive** as the local database for fast, secure, and offline-first storage.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- ✅ **Add, Edit, Delete, and Mark Tasks as Completed** (CRUD operations)
+- 📂 **Organize tasks into categories** for better management
+- 🔄 **Persistent Local Storage** with Hive – no internet required
+- 🌙 **Light and Dark Mode Support** for user preference
+- 🧹 **Minimalistic and Clean UI** with smooth animations
+- 📱 **Cross-platform compatibility** (iOS, Android)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- **Flutter** – Cross-platform framework for building the app
+- **Hive** – Lightweight and fast NoSQL database for local storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
