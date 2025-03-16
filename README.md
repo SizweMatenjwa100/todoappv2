@@ -1,16 +1,14 @@
-# todoappv3
+📌 To-Do App
+A simple and efficient To-Do List App built using Flutter and Hive (NoSQL database) for local storage.
 
-A new Flutter project.
+🚀 Features
+✅ Add, update, and delete tasks.
+🕒 Mark tasks as completed or pending.
+🗂️ Persistent storage with Hive (lightweight NoSQL database).
+🎨 Beautiful UI with responsive design.
 
-## Getting Started
+🛠️ Technologies Used
+Flutter: Frontend framework for building cross-platform apps.
+Dart: Programming language for Flutter.
+Hive: Lightweight and fast NoSQL database for local storage.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
